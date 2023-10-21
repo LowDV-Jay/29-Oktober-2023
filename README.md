@@ -12,13 +12,23 @@
   <script src="https://kit.fontawesome.com/4f3ce16e3e.js" crossorigin="anonymous"></script>
   
 <head>
-<title>HBD Sayangkuh</title>
+<title>Happ Birthday Sayang</title>
 <link rel="icon" type="image/x-icon" href="https://www.palingit.com/favicon.ico">
 <meta name="description" content="HTML Replit Coding">
-
+<!-- 
+  Made with love by Rayys!
+  
+     Blog: https://PalingIT.com
+     Instagram: @rayyarrr
+     TikTok: @rayy4r
+     Email: rayyar0703@gmail.com
+     
+  Thanks to all <3
+-->
 </head>
 <body>
 	
+   <!-- Ganti Audio di sini -->
    <audio src="https://feeldreams.github.io/djikhlas.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
@@ -47,9 +57,9 @@
      <p id="halo" class="halo"></p>
      
      <div><blockquote id='bq' data-text='㋡'>
-       <p id="kalimat">Aku Ada Sesuatu Nih ❤️</p>
+       <p id="kalimat">Aku Ada Sesuatu Nih 🤣❤️</p>
 
-       <p id="pesan1">Klik 4 love di bawah yang!  ❤️</p>
+       <p id="pesan1">Klik 4 LOVE di Bawah! 😆❤️</p>
        <div id="kolombaru">
          <li id="lv1">🤍</li>
          <li id="lv2">🤍</li>
@@ -57,16 +67,16 @@
          <li id="lv4">🤍</li>
        </div>
 
-       <p id="pesan2">Wait...</p>
+       <p id="pesan2">Wait Wait...</p>
        <!-- Pesan -->
-       <p id="pesan3">Ciee.. Hari ini pacar aku ulang tahun niih 🤣❤️</p>
-       <p id="pesan4">Happy Birthday yaa sayangkuh </p>
-       <p id="pesan5" class="gaya2">Semoga panjang umur sayang, biar kita sama-sama terus 🥳❤️</p>
+       <p id="pesan3">Ciee.. Pacar aku hari ini ulang tahun 🤣❤️</p>
+       <p id="pesan4">Happy Birthday yaa Sayangku, </p>
+       <p id="pesan5" class="gaya2">Semoga panjang umur, sehat selalu biar kita sama-sama terus 🥳❤️</p>
        <p id="pesan6" class="gaya2">Semoga kamu sabar terus sama aku ya yang. I Love You ❤️</p>
-       <p id="pesan7" class="gaya2">Sehat selalu sayang, wish you all the best.</p>
+       <p id="pesan7" class="gaya2">Wish You all The Best yang 🥳❤️</p>
 
        <p id="pesan8" class="gaya2">Canda wkwwk :v</p>
-       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesial ini kamu bisa menjadi pribadi yang lebih baik lagi.. 🥳❤️ </p>
+       <p id="pesan9" class="gaya2">Oh iya, semoga di hari spesialmu ini kamu dapat menjadi pribadi yang lebih baik yaa.. 🥳❤️</p>
        <p id="pesan10" class="gaya2">Happy Level Up Day!! 🥳</p>
 
        <!-- Tombol Lanjut -->
@@ -82,7 +92,7 @@
      <!-- Pesan Ditolak -->
      <div id="pesanditolak">
        <img id="stikerditolak" src="https://feeldreams.github.io/weee.gif"/>
-       <p id="kataditolak">Yaudah kalo gamau mah 😜</p>
+       <p id="kataditolak">Yaudah kalo gamau mh 😜</p>
      </div>
 
    </div>
@@ -111,7 +121,7 @@
   var tompositif = 'Mau';
   var tomnegatif = 'Engga';
     
-    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send/?phone=%2B6281294583997&text&type=phone_number&app_absent=0" + pesanwhatsapp;}
+    async function menuju(){pesanwhatsapp = "Makasii udah ngucapin " + nama + " ultah ><";await swals.fire('OK!', 'Kirim jawabannya ke WhatsApp aku, ya!', 'success');window.location = "https://api.whatsapp.com/send?phone=&text=" + pesanwhatsapp;}
 </script>
 <script src="https://feeldreams.github.io/heihbd/script.js"></script>
 <!-- Sampai Sini -->
